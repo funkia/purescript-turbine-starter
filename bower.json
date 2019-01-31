@@ -1,0 +1,27 @@
+{
+  "name": "purescript-turbine-starter",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/funkia/purescript-turbine-starter.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0",
+    "purescript-console": "^4.1.0",
+    "purescript-functions": "^4.0.0",
+    "purescript-record": "^1.0.0",
+    "purescript-effect": "^2.0.0",
+    "purescript-arrays": "^5.0.0",
+    "purescript-hareactive": "0.0.5",
+    "purescript-turbine": "^0.0.4"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0"
+  }
+}
